@@ -1,1 +1,1 @@
-Xaikatana are based on GZdoom engine and temporarily Freedoom2
+Xaikatana are based on GZdoom engine and temporarily Freedoom2 free open source game inspired Daikatana. If you want play you must got Freedoom2.wad and GZdoom. If all you have then drag and drop .pk3 file on gzdoom.exe or add in gzdoom config file under [Global.Autoload] - Path=$PROGDIR/Xaikatana.pk3. All scripts and resources are available in .pk3. Its a Alpha Version of Xaikatana!
